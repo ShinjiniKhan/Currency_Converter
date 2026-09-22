@@ -9,3 +9,9 @@ A simple, user-friendly web application designed to convert currency values acro
 - **Clean UI:** Responsive and straightforward interface for quick calculations.
 
 ## 📁 Project Structure
+
+currency_converter/
+├── index.html     # Main HTML document structure
+├── style.css      # Custom CSS styling
+├── app.js         # Primary application logic & API fetch operations
+└── country.js     # Currency codes & country mapping data

@@ -1,0 +1,11 @@
+# Currency Converter 💱
+
+A simple, user-friendly web application designed to convert currency values across different global currencies in real time.
+
+## 🚀 Features
+
+- **Real-Time Conversion:** Accurately converts amounts between different currencies.
+- **Dynamic Country Selection:** Choose from a wide list of world currencies.
+- **Clean UI:** Responsive and straightforward interface for quick calculations.
+
+## 📁 Project Structure
